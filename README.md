@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there, I'm Benjamin 👋
+
+• 💼 Applied AI Researcher at [NIST](https://www.nist.gov) (Healthcare + ML systems). Former AI Engineer at [Matrix One](https://matrixone.health) (LLM/RAG)  
+• 👨‍🎓 Graduated in Computer Science (AI & Data) from [TELECOM Nancy](https://telecomnancy.univ-lorraine.fr/?lang=en) and in Biomedical Engineering from the [Faculty of Medicine of Lorraine](https://medecine.univ-lorraine.fr/) • ❤️ believe AI will bring tremendous improvements to healthcare and make it accessible to more people
+• 📫 How to reach me: here on GitHub or wink at me on [LinkedIn](https://www.linkedin.com/in/benjamin-cordebar)
+
 
 <!--
 **BenjaminCordebar/BenjaminCordebar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
